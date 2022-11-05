@@ -1,0 +1,13 @@
+choco install docker-compose --version 1.29.2 -y
+choco install docker-desktop --version 4.13.1 -y
+choco install python --version 3.11.0 -y
+choco install pycharm --version 2022.2.3 -y
+choco install git --version 2.38.1 -y
+choco install gh --version 2.19.0 -y
+choco install openjdk --version 19.0.1 -y
+choco install maven --version 3.8.6 -y
+choco install gradle --version 7.5.1 -y
+choco install nodejs --version 19.0.0 -y
+choco install terraform --version 1.3.3 -y
+choco install kubernetes-cli --version 1.25.3 -y
+choco install minikube --version 1.28.0 -y
