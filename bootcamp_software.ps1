@@ -11,3 +11,4 @@ choco install nodejs --version 19.0.0 -y
 choco install terraform --version 1.3.3 -y
 choco install kubernetes-cli --version 1.25.3 -y
 choco install minikube --version 1.28.0 -y
+choco install virtualbox --version 7.0.2 -y
